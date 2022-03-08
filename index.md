@@ -1,4 +1,4 @@
-## [Introducción](Bienvenido.md)
+## [Introducción](Bienvenido.md) [*Proposito De La Pagina](Proposito.md) [*Trabajo A Realizar](Trabajos.md) [*Conclusión](Conclusion.md)
 
 ## Welcome to GitHub Pages
 
