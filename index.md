@@ -1,4 +1,4 @@
-### [Introducción](Bienvenido.md) [*Proposito De La Pagina](Proposito.md) [*Noticias del dia](Trabajos.md) | | [*Conclusión](Conclusion.md) | | [*¿COMO APORTAR CONTENIDO A LA PAGINA?](Aportaciones.md) 
+### [Introducción](Bienvenido.md) [*Proposito De La Pagina](Proposito.md) [*Noticias del dia](Trabajos.md) [*Conclusión](Conclusion.md) [*¿COMO APORTAR CONTENIDO A LA PAGINA?](Aportaciones.md) 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/OrganizacionPedraza/OrganizacionPedraza.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
