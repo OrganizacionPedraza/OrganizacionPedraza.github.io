@@ -1,4 +1,4 @@
-[*Introducción](Bienvenido.md) [*Proposito De La Pagina](Proposito.md) [*Noticias del dia](Trabajos.md) [*Conclusión](Conclusion.md) [*¿COMO APORTAR CONTENIDO A LA PAGINA?](Aportaciones.md)
+[*Introducción](Bienvenido.md) [*Proposito De La Pagina](Proposito.md) [*Noticias del dia](Trabajos.md) [*Conclusión](Conclusion.md) [Contacto](Contacto.md)
 ## Proposito De La Pagina
 
 El proposito de esta pagina, es la creación de contenido de web, con lo cual se tendra acabo las noticas mas virales del momento e igual se llevan acabo algunos datos interesantes (Curiosidades), pero el tema principal se llevara acabo en noticias más virales, del dia
