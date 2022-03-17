@@ -11,11 +11,11 @@
    <label for="name">Correo Electronico:</label><br>
   <input type="text" id="lname" name="name" value= ""><br>
    <label for="name">Fecha en la que se tendra su respuesta:</label><br>
-  <input type="text" id="lname" name="name" value= "20/03/2022"><br>
+  <input type="date" id="lname" name="name" value= "20/03/2022"><br>
    <label for="name">País donde esta:</label><br>
   <input type="text" id="lname" name="name" value= ""><br>
   <label for="name">Fecha de nacimiento:</label><br>
-  <input type="text" id="lname" name="name" value= ""><br>
+  <input type="date" id="lname" name="name" value= ""><br>
   <label for="name">Genero:</label><br>
   <input type="text" id="lname" name="lname" value= "Hombre o Mujer"><br>
   <input type="submit" value="Submit">
