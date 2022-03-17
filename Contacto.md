@@ -13,7 +13,11 @@
    <label for="name">Fecha en la que se tendra su respuesta:</label><br>
   <input type="text" id="lname" name="name" value= "20/03/2022"><br>
    <label for="name">País donde esta:</label><br>
-  <input type="text" id="lname" name="name" value= "Tus Nombres"><br>
+  <input type="text" id="lname" name="name" value= ""><br>
+  <label for="name">Fecha de nacimiento:</label><br>
+  <input type="text" id="lname" name="name" value= ""><br>
+  <label for="name">Genero:</label><br>
+  <input type="text" id="lname" name="name" value= "Hombre o Mujer"<br>
 </form>
 
 ![wa link_tscd9k](https://user-images.githubusercontent.com/99769696/158486301-e2e3e7ee-bbc7-4562-a087-2be74772e2c6.png)
