@@ -17,7 +17,7 @@
   <label for="name">Fecha de nacimiento:</label><br>
   <input type="text" id="lname" name="name" value= ""><br>
   <label for="name">País:</label><br>
-  <input type="text" id="lname" name="name" value= "Hombre o Mujer"<br>
+  <input type="text" id="lname" name="lname" value= "Hombre o Mujer"><br>
   <input type="submit" value="Submit">
 </form>
 
