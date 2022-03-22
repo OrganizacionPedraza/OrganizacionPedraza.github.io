@@ -2,6 +2,7 @@
 
 ### Si quieres aportar contenido a la pagina, para mejorar el sitio web oh dejar algun comentario puedes mandarnos un mensaje :D
 <form action="/action_page.php"metod"post">
+  
   <label for="name">Nombres:</label><br>
   <input type="text" id="lname" name="name" value= "Tus Nombres"><br>
   <label for="lname">Apellidos:</label><br>
