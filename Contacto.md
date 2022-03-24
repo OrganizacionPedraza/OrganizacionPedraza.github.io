@@ -1,7 +1,7 @@
 [Contacto](Contacto.md)
 
 ### Si quieres aportar contenido a la pagina, para mejorar el sitio web oh dejar algun comentario puedes mandarnos un mensaje :D
-<form action="/action_page.php""https://formspree.io/f/mlezlqyy" method="post">
+<form action="https://formspree.io/f/mlezlqyy"
   
   <label for="name">Nombres:</label><br>
   <input type="text" id="lname" name="name" value= "Tus Nombres"><br>
